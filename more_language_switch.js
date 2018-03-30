@@ -1,4 +1,4 @@
-<div sat-lan="title:我要被翻译">
+<div title = "我要被翻译"  sat-lan="title:我要被翻译">
 <div>
 
 <script type="text/javascript">
